@@ -1,7 +1,7 @@
 public class ClassAltered {
 
     public static void main(String[] args) {
-        System.out.println("Synteza, I5B2S1, Buhaienko Yana");
+        System.out.println("Synteza");
         method1();
         method2();
         method3();
